@@ -1,0 +1,24 @@
+.categoryNav{
+    @apply
+    flex
+    py-2
+    max-w-7xl
+    mx-auto
+    bg-transparent
+    rounded-lg
+    overflow-x-auto
+    sm:justify-start
+    md:justify-center
+    
+}
+
+.categoryLink{
+    @apply
+    text-black
+    hover:border-x-4
+    hover:border-green-600
+    px-6
+    py-2
+    flex
+    mx-0
+}

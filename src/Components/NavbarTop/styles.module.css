@@ -1,0 +1,17 @@
+.countTag {
+  @apply absolute
+    w-4
+    h-4
+    left-3/4
+    bg-red-600
+    rounded-full
+    flex
+    place-content-center;
+}
+
+.text {
+  @apply text-white
+  text-xs
+  font-bold
+  text-center;
+}
